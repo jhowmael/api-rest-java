@@ -1,0 +1,1 @@
+Welcome to the Java REST API for User Registration repository! This project provides a RESTful API implemented in Java, designed for user registration. Please note that this API does not connect to a database and is intended primarily for demonstration and educational purposes.
